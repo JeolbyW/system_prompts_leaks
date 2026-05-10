@@ -23,7 +23,7 @@ Updated regularly with new models and versions. PRs welcome.
 | **Claude Opus 4.7** — Anthropic's latest flagship | Apr 22, 2026 | [System prompt](Anthropic/claude-opus-4.7.md) |
 | **Claude Cowork** — Multi-agent collaboration | Apr 27, 2026 | [System prompt](Anthropic/claude-cowork.md) |
 | **Claude Code** — CLI coding assistant | Feb 21, 2026 | [System prompt](Anthropic/claude-code.md) |
-| **GPT-5.3-Codex-Spark** — Codex research preview | May 10, 2026 | [Metadata](OpenAI/codex/gpt-5.3-codex-spark.md) |
+| **GPT-5.3-Codex-Spark** — ultra-fast Codex model | May 10, 2026 | [System prompt](OpenAI/codex/gpt-5.3-codex-spark.md) |
 | **Grok 4.3 Beta** — xAI's sandbox environment | Apr 27, 2026 | [System prompt](xAI/grok-4.3-beta.md) |
 | **Gemini 3.1 Pro** — Google's latest | Mar 15, 2026 | [System prompt](Google/gemini-3.1-pro.md) · [API](Google/gemini-3.1-pro-api.md) |
 | **Codex CLI (GPT-5.5)** — OpenAI's coding agent | Apr 26, 2026 | [Codex](OpenAI/codex/gpt-5.5.md) · [Friendly](OpenAI/codex/personality_friendly_gpt-5.5.md) · [Pragmatic](OpenAI/codex/personality_pragmatic_gpt-5.5.md) |
@@ -71,9 +71,9 @@ Updated regularly with new models and versions. PRs welcome.
 |-------|--------|
 | **GPT-5.5** | [**Thinking**](OpenAI/gpt-5.5-thinking.md) · [**Codex**](OpenAI/codex/gpt-5.5.md) · [Friendly](OpenAI/codex/personality_friendly_gpt-5.5.md) · [Pragmatic](OpenAI/codex/personality_pragmatic_gpt-5.5.md) |
 | **GPT-5.4** | [**API**](OpenAI/gpt-5.4-api.md) · [**Thinking**](OpenAI/gpt-5.4-thinking.md) · [**Codex**](OpenAI/codex/gpt-5.4.md) · [Codex Mini](OpenAI/codex/gpt-5.4-mini.md) |
-| **GPT-5.3** | [**Codex**](OpenAI/codex/gpt-5.3-codex.md) · [Spark metadata](OpenAI/codex/gpt-5.3-codex-spark.md) · [Codex API](OpenAI/gpt-5.3-codex-api.md) · [Chat API](OpenAI/gpt-5.3-chat-api.md) · [Instant](OpenAI/gpt-5.3-instant.md) |
+| **GPT-5.3** | [**Codex**](OpenAI/codex/gpt-5.3-codex.md) · [Spark](OpenAI/codex/gpt-5.3-codex-spark.md) · [Codex API](OpenAI/gpt-5.3-codex-api.md) · [Chat API](OpenAI/gpt-5.3-chat-api.md) · [Instant](OpenAI/gpt-5.3-instant.md) |
 | GPT-5.2 | [Mini (free)](OpenAI/gpt-5.2-mini-free-account.md) · [Thinking](OpenAI/gpt-5.2-thinking.md) · [Codex](OpenAI/codex/gpt-5.2-codex.md) |
-| **Codex CLI** | [Per-model prompts](OpenAI/codex/) · [Spark metadata](OpenAI/codex/gpt-5.3-codex-spark.md) · [Friendly persona](OpenAI/codex/personality_friendly.md) · [Pragmatic persona](OpenAI/codex/personality_pragmatic.md) · [Auto-review](OpenAI/codex/codex-auto-review.md) |
+| **Codex CLI** | [Per-model prompts](OpenAI/codex/) · [Spark](OpenAI/codex/gpt-5.3-codex-spark.md) · [Friendly persona](OpenAI/codex/personality_friendly.md) · [Pragmatic persona](OpenAI/codex/personality_pragmatic.md) · [Auto-review](OpenAI/codex/codex-auto-review.md) |
 | o4-mini | [System prompt](OpenAI/o4-mini.md) · [High](OpenAI/o4-mini-high.md) |
 | o3 | [System prompt](OpenAI/o3.md) |
 | ChatGPT Atlas | [System prompt](OpenAI/chatgpt-atlas.md) |
